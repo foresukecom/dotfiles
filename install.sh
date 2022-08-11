@@ -49,3 +49,4 @@ done
 link_to_homedir
 git config --global include.path "~/.gitconfig_shared"
 command echo -e "Install completed!!!!"
+
